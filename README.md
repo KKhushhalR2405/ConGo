@@ -18,22 +18,22 @@ Contact on the Go
 
 <hr>
 
-### User dashboard
+#### User dashboard
 ![image](https://user-images.githubusercontent.com/58569950/208632475-eea169dd-432c-43ab-aeba-225bbfc6242d.png)
 
 <hr>
 
-### Creating New Contact
+#### Creating New Contact
 ![image](https://user-images.githubusercontent.com/58569950/208633928-ccf56b95-baec-45e8-853b-45f94486ab74.png)
 
 <hr>
 
-### User dashboard post adding a Contact
+#### User dashboard post adding a Contact
 ![image](https://user-images.githubusercontent.com/58569950/208633489-a4cac8ab-7a02-461d-82b0-f083b70543ff.png)
 
 <hr>
 
-### Viewing the contact
+#### Viewing the contact
 ![image](https://user-images.githubusercontent.com/58569950/208633550-8988cb3c-358f-4dc4-8223-22cb6479163d.png)
 
 
